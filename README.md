@@ -6,5 +6,6 @@
 4. Relative and absolute paths.
 5. Error boundaries.
 6. Using deferred data and react suspense to have a better UX.
+7. Used miragejs for a mock backend application.
 
 # Happy Coding!
